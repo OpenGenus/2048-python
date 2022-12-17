@@ -22,3 +22,22 @@ Use the arrow keys to move Up, Down, Left, and Right. The game will go on until 
 ### References
 1. https://www.youtube.com/watch?v=b4XP2IcI-Bg&t=302s
 2. https://www.youtube.com/watch?v=HTJCUBp_S2I
+
+### Output
+The output of the Gameboard, Start of the game, Winning Board, and Game Over Board
+
+**GameBoard**
+
+![Gameboard](https://user-images.githubusercontent.com/72749554/208250625-5bea9081-3ef8-4799-80da-f42e819991c8.png)
+
+**Start**
+
+![start](https://user-images.githubusercontent.com/72749554/208250633-9a405444-78cf-4079-8903-0f57d6eb6cea.png)
+
+**Win**
+
+![win](https://user-images.githubusercontent.com/72749554/208250642-a62cbb7a-92a8-4464-883b-e4be472deebb.png)
+
+**Game Over**
+
+![gameover](https://user-images.githubusercontent.com/72749554/208250648-85f5a978-ae5f-47f1-aabf-da5a354efaa4.png)
