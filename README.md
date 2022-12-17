@@ -20,3 +20,5 @@ Project created with:
 Use the arrow keys to move Up, Down, Left, and Right. The game will go on until reached 2048 or all the tiles are filled up and no move is left. 
 
 ### References
+1. https://www.youtube.com/watch?v=b4XP2IcI-Bg&t=302s
+2. https://www.youtube.com/watch?v=HTJCUBp_S2I
